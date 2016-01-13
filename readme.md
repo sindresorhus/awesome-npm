@@ -83,6 +83,7 @@
 - [normalize-package-data](https://github.com/npm/normalize-package-data) - Normalize package metadata.
 - [pkg-conf](https://github.com/sindresorhus/pkg-conf) - Get namespaced config from the closest package.json.
 - [npm-run-path](https://github.com/sindresorhus/npm-run-path) - Run locally installed binaries in the terminal by name like with global ones.
+- [local-npm](https://www.npmjs.com/package/local-npm) - Use [npm offline](https://addyosmani.com/blog/using-npm-offline/) 
 
 
 ## Tips
