@@ -84,6 +84,7 @@
 - [pkg-conf](https://github.com/sindresorhus/pkg-conf) - Get namespaced config from the closest package.json.
 - [npm-run-path](https://github.com/sindresorhus/npm-run-path) - Run locally installed binaries in the terminal by name like with global ones.
 - [local-npm](https://github.com/nolanlawson/local-npm) - Use npm [offline](https://addyosmani.com/blog/using-npm-offline/).
+- [npe](https://github.com/zeke/npe) - CLI for inspecting and editing properties in package.json.
 
 
 ## Tips
