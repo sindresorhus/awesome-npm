@@ -83,6 +83,7 @@
 - [normalize-package-data](https://github.com/npm/normalize-package-data) - Normalize package metadata.
 - [pkg-conf](https://github.com/sindresorhus/pkg-conf) - Get namespaced config from the closest package.json.
 - [npm-run-path](https://github.com/sindresorhus/npm-run-path) - Run locally installed binaries in the terminal by name like with global ones.
+- [keywords](https://github.com/jonschlinkert/keywords) - CLI utility for easily adding keywords to package.json.
 
 
 ## Tips
