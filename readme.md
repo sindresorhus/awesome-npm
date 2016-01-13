@@ -8,7 +8,6 @@
 ## Table of Contents
 
 - [Articles](#articles)
-- [Tutorials](#tutorials)
 - [Tools](#tools)
 - [Packages](#packages)
 - [Tips](#tips)
@@ -27,11 +26,6 @@
 - [Task automation with npm run](http://substack.net/task_automation_with_npm_run)
 - [How to use npm as a build tool](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/)
 - [Install npm packages globally without sudo on OS X and Linux](https://github.com/sindresorhus/guides/blob/master/npm-global-without-sudo.md)
-
-
-## Tutorials
-
-- [how-to-npm](https://github.com/npm/how-to-npm) - Interactive CLI introduction to npm.
 
 
 ## Tools
