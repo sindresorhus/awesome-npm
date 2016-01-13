@@ -62,6 +62,7 @@
 - [np](https://github.com/sindresorhus/np) - A better `npm publish`.
 - [npm-release](https://github.com/phuu/npm-release) - Making releasing to npm so easy a kitten could probably do it™.
 - [pkgfiles](https://github.com/timoxley/pkgfiles) - List all files which would be published in a package.
+- [publish-please](https://github.com/inikulin/publish-please) - Publish npm modules safely and gracefully.
 
 ### Registry
 
