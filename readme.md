@@ -57,6 +57,7 @@
 - [publish-please](https://github.com/inikulin/publish-please) - Publish packages safely and gracefully.
 - [npm-release](https://github.com/phuu/npm-release) - Making releasing to npm so easy a kitten could probably do it™.
 - [pkgfiles](https://github.com/timoxley/pkgfiles) - List all files which would be published in a package.
+- [semantic-release](https://github.com/semantic-release/semantic-release) - Fully automated package publishing.
 
 ### Registry
 
