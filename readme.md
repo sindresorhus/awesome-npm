@@ -71,6 +71,7 @@
 - [npm-user-packages](https://github.com/kevva/npm-user-packages-cli) - Get packages by a npm user.
 - [dpn](https://github.com/gillstrom/dpn) - Get the dependents of a user's npm packages.
 - [npm-stats](https://github.com/hughsk/npm-stats) - Get data from a npm registry.
+- [pkg-downloads](https://github.com/alonalon/pkg-downloads) - Get download stats during a time period for a npm package
 
 ### Other
 
