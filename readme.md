@@ -43,6 +43,7 @@
 - [npm-top](https://gist.github.com/bcoe/dcc961b869bbf6685002) - npm users by downloads.
 - [npm semver calculator](http://semver.npmjs.com) - Visually explore what versions of a package a semver range matches.
 - [npm-stats](http://www.npm-stats.com) - Displays metrics about packages.
+- [greenkeeper.io](http://greenkeeper.io) - Automates dependency updates through pull requests.
 
 ### Browser extensions
 
