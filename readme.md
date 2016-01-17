@@ -4,6 +4,8 @@
 
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs).*
 
+*Please read the [contribution guidelines](contributing.md) before contributing.*
+
 
 ## Table of Contents
 
