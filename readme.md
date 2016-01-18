@@ -217,6 +217,21 @@ Example:
 $ npm help install
 ```
 
+### Standalone version of a package
+
+Quickly get a standalone version of a package that is browserified and usable in the browser.
+
+```
+https://wzrd.in/standalone/<package-name>[@<version>]
+```
+
+Examples:
+
+- https://wzrd.in/standalone/object-assign
+- https://wzrd.in/standalone/object-assign@4.0.0
+
+Great for prototyping, but download the file or use Browserify yourself for production.
+
 
 ## FAQ
 
