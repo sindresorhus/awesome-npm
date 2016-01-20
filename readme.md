@@ -203,6 +203,12 @@ $ npm install chalk@1.0.0
 $ npm ls --depth=0
 ```
 
+### Check for outdated packages
+
+```
+$ npm outdated --depth=0
+```
+
 ### Command help
 
 Get help docs for a command:
