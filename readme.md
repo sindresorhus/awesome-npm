@@ -22,6 +22,8 @@
 ## Articles
 
 - [Small focused modules](https://github.com/sindresorhus/ama/issues/10#issuecomment-117766328)
+- [Unix philosophy and Node.js](http://blog.izs.me/post/48281998870/unix-philosophy-and-nodejs) - Write programs that do one thing and do it well.
+- [Writing small modules](http://substack.net/how_I_write_modules)
 - [Semver: A Primer](https://nodesource.com/blog/semver-a-primer/) *(Must read!)*
 - [Semver: Tilde and Caret](https://nodesource.com/blog/semver-tilde-and-caret/)
 - [Offline installation of npm packages](https://addyosmani.com/blog/using-npm-offline/)
