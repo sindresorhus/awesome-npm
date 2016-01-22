@@ -165,6 +165,23 @@ $ npm run cat
 Max
 ```
 
+All package.json properties are [exposed](https://docs.npmjs.com/misc/scripts#package-json-vars) as environment variables:
+
+```json
+{
+	"name": "awesome-package",
+	"scripts": {
+		"name": "echo $npm_package_name"
+	}
+}
+```
+
+```
+$ npm run name
+awesome-package
+```
+
+
 ### Link local packages
 
 Sometimes it can be useful to have a local version of a package as a dependency. You can use `npm link` to link one local package into another. Run `npm link` in the package you want to use. This creates a global reference. Then go into your original package and run `npm link <package-name>` to link in the other package.
