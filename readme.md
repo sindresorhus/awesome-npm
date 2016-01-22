@@ -31,6 +31,7 @@
 - [How to use npm as a build tool](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/)
 - [Install npm packages globally without sudo on OS X and Linux](https://github.com/sindresorhus/guides/blob/master/npm-global-without-sudo.md)
 - [Optimizing the footprint of a npm package](https://medium.com/@goldglovecb/npm-needs-a-personal-trainer-537e0f8859c6)
+- [The Art of Node](https://github.com/maxogden/art-of-node#readme) - An introduction to Node.js and client side development with npm.
 
 
 ## Tools
