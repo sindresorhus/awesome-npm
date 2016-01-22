@@ -96,6 +96,7 @@
 - [npe](https://github.com/zeke/npe) - CLI for inspecting and editing properties in package.json.
 - [engine-deps](https://github.com/samccone/engine-deps) - Manage Node.js version specific dependencies with ease.
 - [enpeem-search](https://github.com/amovah/enpeem-search) - Search packages by scraping the npm web search.
+- [npm-issues](https://github.com/seanzarrin/npm-issues) - Search known issues of all your packages at once.
 
 
 ## Tips
