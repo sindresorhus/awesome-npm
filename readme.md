@@ -30,7 +30,7 @@
 - [Task automation with npm run](http://substack.net/task_automation_with_npm_run)
 - [How to use npm as a build tool](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/)
 - [Install npm packages globally without sudo on OS X and Linux](https://github.com/sindresorhus/guides/blob/master/npm-global-without-sudo.md)
-- [Optimizing the footprint of a npm package](https://medium.com/@goldglovecb/npm-needs-a-personal-trainer-537e0f8859c6)
+- [Optimizing the footprint of an npm package](https://medium.com/@goldglovecb/npm-needs-a-personal-trainer-537e0f8859c6)
 - [The Art of Node](https://github.com/maxogden/art-of-node#modules) - An introduction to Node.js and client-side development with npm.
 
 
@@ -71,13 +71,13 @@
 
 - [npm-name](https://github.com/sindresorhus/npm-name-cli) - Check whether a package name is available on npm.
 - [package-json](https://github.com/sindresorhus/package-json) - Get the package.json of a package from the npm registry.
-- [latest-version](https://github.com/sindresorhus/latest-version-cli) - Get the latest version of a npm package.
+- [latest-version](https://github.com/sindresorhus/latest-version-cli) - Get the latest version of an npm package.
 - [npm-keyword](https://github.com/sindresorhus/npm-keyword) - Get a list of npm packages with a certain keyword.
-- [npm-user](https://github.com/sindresorhus/npm-user) - Get user info of a npm user.
-- [npm-email](https://github.com/sindresorhus/npm-email) - Get the email of a npm user.
-- [npm-user-packages](https://github.com/kevva/npm-user-packages-cli) - Get packages by a npm user.
+- [npm-user](https://github.com/sindresorhus/npm-user) - Get user info of an npm user.
+- [npm-email](https://github.com/sindresorhus/npm-email) - Get the email of an npm user.
+- [npm-user-packages](https://github.com/kevva/npm-user-packages-cli) - Get packages by an npm user.
 - [dpn](https://github.com/gillstrom/dpn) - Get the dependents of a user's npm packages.
-- [npm-stats](https://github.com/hughsk/npm-stats) - Get data from a npm registry.
+- [npm-stats](https://github.com/hughsk/npm-stats) - Get data from an npm registry.
 
 ### Other
 
@@ -87,7 +87,7 @@
 - [npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies, as well as interactive update.
 - [npm-shrinkwrap](https://github.com/uber/npm-shrinkwrap) - A consistent shrinkwrap tool.
 - [npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade) - Upgrade npm on Windows.
-- [generator-nm](https://github.com/sindresorhus/generator-nm) - Scaffold out a npm package.
+- [generator-nm](https://github.com/sindresorhus/generator-nm) - Scaffold out an npm package.
 - [pkg-up](https://github.com/sindresorhus/pkg-up) - Find the closest package.json file.
 - [read-pkg-up](https://github.com/sindresorhus/read-pkg-up) - Read the closest package.json file.
 - [normalize-package-data](https://github.com/npm/normalize-package-data) - Normalize package metadata.
