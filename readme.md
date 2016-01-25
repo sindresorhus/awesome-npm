@@ -98,6 +98,7 @@
 - [engine-deps](https://github.com/samccone/engine-deps) - Manage Node.js version specific dependencies with ease.
 - [enpeem-search](https://github.com/amovah/enpeem-search) - Search packages by scraping the npm web search.
 - [npm-issues](https://github.com/seanzarrin/npm-issues) - Search known issues of all your packages at once.
+- [john](https://github.com/davej/john#api) - Make npm3's flat dependencies easier to find and sort.
 
 
 ## Tips
