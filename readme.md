@@ -51,6 +51,7 @@
 - [npm-stats](http://www.npm-stats.com) - Displays metrics about packages.
 - [greenkeeper.io](http://greenkeeper.io) - Automates dependency updates through pull requests.
 - [ghub.io](http://ghub.io) - Redirects to the GitHub repo of an npm package.
+- [npm addict](https://npmaddict.com) - Your daily injection of npm packages.
 
 ### Browser extensions
 
