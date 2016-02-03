@@ -40,6 +40,7 @@
 
 - [npmsearch](http://npmsearch.com) - Fast package search with ranking based on metrics like stars, dependents, release frequency, etc.
 - [node-modules](http://node-modules.com) - Personalized package search based on your GitHub social graph.
+- [npm addict](https://npmaddict.com) - Your daily injection of npm packages.
 - [NodeICO](https://nodei.co/) - Package badges.
 - [Libraries.io](https://libraries.io/npm) - Package discovery.
 - [npm-stat](http://npm-stat.com) - Statistics charts for packages.
