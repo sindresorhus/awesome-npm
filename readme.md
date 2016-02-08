@@ -116,6 +116,8 @@ $ npm install --global npm
 ### Command aliases
 
 - `npm i ` → `npm install`
+- `npm i -S` → `npm install --save`
+- `npm i -D` → `npm install --save-dev`
 - `npm t` → `npm test`
 - `npm it` → `npm install && npm test`
 - `npm r` → `npm uninstall`
