@@ -52,6 +52,7 @@
 - [greenkeeper.io](http://greenkeeper.io) - Automates dependency updates through pull requests.
 - [ghub.io](http://ghub.io) - Redirects to the GitHub repo of an npm package.
 - [npm addict](https://npmaddict.com) - Your daily injection of npm packages.
+- [npm discover](http://www.npmdiscover.com) - Discover what packages are commonly used together.
 
 ### Browser extensions
 
