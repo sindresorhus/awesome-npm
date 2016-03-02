@@ -12,6 +12,7 @@
 - [Articles](#articles)
 - [Tools](#tools)
 - [Packages](#packages)
+- [Alternatives](#alternatives)
 - [Tips](#tips)
 - [FAQ](#faq)
 - [Community](#community)
@@ -102,6 +103,12 @@
 - [enpeem-search](https://github.com/amovah/enpeem-search) - Search packages by scraping the npm web search.
 - [npm-issues](https://github.com/seanzarrin/npm-issues) - Search known issues of all your packages at once.
 - [john](https://github.com/davej/john) - Make npm3's flat dependencies easier to find and sort.
+
+
+## Alternatives
+
+- [pnpm](https://github.com/rstacruz/pnpm) - Performant 'npm install'.
+- [ied](https://github.com/alexanderGugel/ied) - Like npm, but faster - an alternative package manager for Node.
 
 
 ## Tips
