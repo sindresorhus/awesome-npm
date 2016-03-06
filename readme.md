@@ -82,6 +82,7 @@
 - [npm-user-packages](https://github.com/kevva/npm-user-packages-cli) - Get packages by an npm user.
 - [dpn](https://github.com/gillstrom/dpn) - Get the dependents of a user's npm packages.
 - [npm-stats](https://github.com/hughsk/npm-stats) - Get data from an npm registry.
+- [npm-cli-login](https://github.com/postmanlabs/npm-cli-login) - Log in to NPM without STDIN, STDOUT.
 
 ### Other
 
