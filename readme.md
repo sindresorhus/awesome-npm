@@ -83,6 +83,7 @@
 - [dpn](https://github.com/gillstrom/dpn) - Get the dependents of a user's npm packages.
 - [npm-stats](https://github.com/hughsk/npm-stats) - Get data from an npm registry.
 - [npm-cli-login](https://github.com/postmanlabs/npm-cli-login) - Log in to npm.
+- [nrm](https://github.com/Pana/nrm) - npm registry manager.
 
 ### Other
 
