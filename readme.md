@@ -182,7 +182,7 @@ $ npm run cat
 Max
 ```
 
-All package.json properties are [exposed](https://docs.npmjs.com/misc/scripts#package-json-vars) as environment variables:
+All package.json properties are [exposed](https://docs.npmjs.com/misc/scripts#packagejson-vars) as environment variables:
 
 ```json
 {
