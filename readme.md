@@ -2,7 +2,7 @@
 
 > Awesome [npm](https://www.npmjs.com) resources and tips
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs).*
+You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs).
 
 *Please read the [contribution guidelines](contributing.md) before contributing.*
 
