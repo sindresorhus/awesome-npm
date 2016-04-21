@@ -54,12 +54,12 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 - [ghub.io](http://ghub.io) - Redirects to the GitHub repo of an npm package.
 - [npm addict](https://npmaddict.com) - Your daily injection of npm packages.
 - [npm discover](http://www.npmdiscover.com) - Discover what packages are commonly used together.
+- [snyk](https://snyk.io) - Find, fix and monitor for known vulnerabilities in npm dependencies.
 
 ### Browser extensions
 
 - [Octo-Linker](https://chrome.google.com/webstore/detail/octo-linker/jlmafbaeoofdegohdhinkhilhclaklkp) - Chrome extension to navigate across npm packages on GitHub with ease.
 - [npm-hub](https://chrome.google.com/webstore/detail/npm-hub/kbbbjimdjbjclaebffknlabpogocablj) - Chrome extension to explore npm dependencies on GitHub repos.
-
 
 ## Packages
 
