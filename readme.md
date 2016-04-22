@@ -93,6 +93,7 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 - [gh-home](https://github.com/sindresorhus/gh-home) - Open the GitHub page of a package.
 - [david](https://github.com/alanshaw/david) - Check if your package dependencies are out of date.
 - [npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies, as well as interactive update.
+- [npm-upgrade](https://github.com/th0r/npm-upgrade) - Update outdated npm dependencies interactively.
 - [npm-shrinkwrap](https://github.com/uber/npm-shrinkwrap) - A consistent shrinkwrap tool.
 - [npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade) - Upgrade npm on Windows.
 - [generator-nm](https://github.com/sindresorhus/generator-nm) - Scaffold out an npm package.
