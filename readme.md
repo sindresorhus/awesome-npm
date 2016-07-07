@@ -7,7 +7,7 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 *Please read the [contribution guidelines](contributing.md) before contributing.*
 
 
-## Table of Contents
+## Contents
 
 - [Articles](#articles)
 - [Tools](#tools)
