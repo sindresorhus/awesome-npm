@@ -91,6 +91,7 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 - [npm-stats](https://github.com/hughsk/npm-stats) - Get data from an npm registry.
 - [npm-cli-login](https://github.com/postmanlabs/npm-cli-login) - Log in to npm.
 - [nrm](https://github.com/Pana/nrm) - Registry manager.
+- [npm-register](https://github.com/dickeyxxx/npm-register) - Easy to set up and maintain npm registry and proxy.
 
 ### Other
 
