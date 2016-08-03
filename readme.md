@@ -160,6 +160,7 @@ alias nit='npm install && npm test'
 alias nk='npm link'
 alias nr='npm run'
 alias nf='npm cache clean && rm -rf node_modules && npm install'
+alias nlg='npm list --global --depth=0'
 ```
 
 
