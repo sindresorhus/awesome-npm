@@ -118,6 +118,7 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 - [decheck](https://github.com/egoist/decheck) - Explore dependencies of npm packages in the command-line.
 - [shrinkpack](https://github.com/JamieMason/shrinkpack) - Lock down your dependencies and install offline.
 - [redrun](https://github.com/coderaiser/redrun) - Expand scripts from package.json to improve execution speed.
+- [package-size](https://github.com/egoist/package-size) - Get the bundle size of an npm package.
 
 
 ## Clients
