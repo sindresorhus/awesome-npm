@@ -125,8 +125,8 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 
 - [yarn](https://github.com/yarnpkg/yarn) - Fast, reliable, and secure dependency management.
 - [npm](https://github.com/npm/npm) - The official client.
+- [pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient npm installs.
 - [ied](https://github.com/alexanderGugel/ied) - Faster npm.
-- [pnpm](https://github.com/rstacruz/pnpm) - Performant `npm install`.
 
 
 ## Tips
