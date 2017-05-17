@@ -92,6 +92,7 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 - [npm-cli-login](https://github.com/postmanlabs/npm-cli-login) - Log in to npm.
 - [nrm](https://github.com/Pana/nrm) - Registry manager.
 - [npm-register](https://github.com/dickeyxxx/npm-register) - Easy to set up and maintain npm registry and proxy.
+- [verdaccio](https://github.com/verdaccio/verdaccio) - Lightweight npm private proxy registry
 
 ### Other
 
