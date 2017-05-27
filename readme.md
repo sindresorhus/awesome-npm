@@ -143,7 +143,6 @@ $ npm install --global npm
 ### Command aliases
 
 - `npm i ` → `npm install`
-- `npm i -S` → `npm install --save`
 - `npm i -D` → `npm install --save-dev`
 - `npm t` → `npm test`
 - `npm it` → `npm install && npm test`
@@ -157,7 +156,6 @@ In your `.zshrc`/`.bashrc`:
 
 ```sh
 alias ni='npm install'
-alias nis='npm install --save'
 alias nid='npm install --save-dev'
 alias nig='npm install --global'
 alias nt='npm test'
