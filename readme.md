@@ -77,6 +77,7 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 - [npm-release](https://github.com/phuu/npm-release) - Making releasing to npm so easy a kitten could probably do it™.
 - [pkgfiles](https://github.com/timoxley/pkgfiles) - List all files which would be published in a package.
 - [semantic-release](https://github.com/semantic-release/semantic-release) - Fully automated package publishing.
+- [pkgd](https://github.com/inikulin/pkgd) - Get package publish info: package.json and file list.
 
 ### Registry
 
