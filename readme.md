@@ -22,6 +22,7 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 
 ## Articles
 
+- [Pragmatic modularity](http://mafintosh.com/pragmatic-modularity.html)
 - [Small focused modules](https://github.com/sindresorhus/ama/issues/10#issuecomment-117766328)
 - [Unix philosophy and Node.js](http://blog.izs.me/post/48281998870/unix-philosophy-and-nodejs) - Write programs that do one thing and do it well.
 - [Writing small modules](http://substack.net/how_I_write_modules)
