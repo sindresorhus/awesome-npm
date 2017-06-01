@@ -170,10 +170,10 @@ alias nlg='npm list --global --depth=0'
 
 ### Don't add to package.json when installing
 
-By default npm adds any package you install to the `dependencies` field in package.json (since v5.0.0). You can prevent this by specifying the `--no-save` flag or you can add it to `devDependencies` with `-save-dev`/`-D`:
+By default npm adds any package you install to the `dependencies` field in package.json (since v5). You can prevent this by specifying the `--no-save` flag or you can add it to `devDependencies` with `--save-dev`/`-D`:
 
 ```
-$ npm install --save-dev mocha
+$ npm install --save-dev ava
 ```
 
 ### Run scripts
