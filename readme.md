@@ -43,6 +43,7 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 - [npms](https://npms.io) - Superb package search with deep analysis of package quality using a [myriad of metrics](https://npms.io/about).
 - [npmsearch](http://npmsearch.com) - Fast package search with ranking based on metrics like stars, dependents, release frequency, etc.
 - [node-modules](http://node-modules.com) - Personalized package search based on your GitHub social graph.
+- [searchlibs](http://searchlibs.com) - Quickly search, filter and compare lots of packages. Also, it usually gives slightly better results than anything else.
 - [NodeICO](https://nodei.co/) - Package badges.
 - [Libraries.io](https://libraries.io/npm) - Package discovery.
 - [npm-stat](http://npm-stat.com) - Statistics charts for packages.
