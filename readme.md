@@ -168,12 +168,12 @@ alias nlg='npm list --global --depth=0'
 ```
 
 
-### Add to package.json when installing
+### Don't add to package.json when installing
 
-You can have npm add packages to package.json when installing by specifying the `--save`/`-S` flag for `dependencies` and `--save-dev`/`-D` for `devDependencies`:
+By default npm adds packages you install to the `dependencies` field in package.json (since v5). You can prevent this by specifying the `--no-save` flag. You can add a package to `devDependencies` with `--save-dev`/`-D`:
 
 ```
-$ npm install --save chalk
+$ npm install --save-dev ava
 ```
 
 ### Run scripts
