@@ -66,6 +66,7 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 ### CLI
 
 - [zsh-better-npm-completion](https://github.com/lukechilds/zsh-better-npm-completion) - Better ZSH completion for npm.
+- [transfer-owner-cli](https://github.com/ceasbz/transfer-owner-cli) - Transfer npm package property to another user.
 
 
 ## Packages
