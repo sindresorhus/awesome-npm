@@ -65,6 +65,7 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 
 ### CLI
 
+- [npx](https://github.com/zkat/npx) - Execute npm package binaries.
 - [zsh-better-npm-completion](https://github.com/lukechilds/zsh-better-npm-completion) - Better ZSH completion for npm.
 
 
