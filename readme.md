@@ -65,7 +65,6 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 
 ### CLI
 
-- [npx](https://github.com/zkat/npx) - Execute npm package binaries.
 - [zsh-better-npm-completion](https://github.com/lukechilds/zsh-better-npm-completion) - Better ZSH completion for npm.
 
 
@@ -214,6 +213,44 @@ $ npm run name
 awesome-package
 ```
 
+
+### Run script with npx
+
+Since version 5.2.0 `npm` [comes bundled](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b) with `npx` - a tool to execute package binaries. Each command is executed either from a local `node_modules/.bin`, or from a central cache, installing any packages needed in order for `<command>` to run.
+
+```json
+{
+	"name": "awesome-package",
+	"dependencies": {
+		"cat-names": "^1.0.0"
+	}
+}
+```
+
+For the already installed package binary will be executed from `node_modules/.bin`.
+
+```
+$ npx cat-names
+Max
+```
+
+But if binary is missing it would be installed first.
+
+```
+$ npx dog-names
+npx: installed 46 in 3.136s
+Bentley
+```
+
+
+### Run commands with different Node.js versions
+
+There’s this cool package called `node-bin` on the `npm` registry. This means that you can very easily try out node commands using different node versions, without having to use a version manager like [`nvm`](http://nvm.sh/), [`nave`](https://npm.im/nave), or [`n`](https://npm.im/n). All you need is a stock `npm@5.2.0` installation.
+
+```
+$ npx -p node-bin@6.11.0 -- node -v
+v6.11.0
+```
 
 ### Link local packages
 
