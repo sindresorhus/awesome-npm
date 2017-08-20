@@ -214,6 +214,44 @@ awesome-package
 ```
 
 
+### Run script with `npx`
+
+`npm` [comes bundled](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b) with `npx` (Since v5.2.0) — a tool to execute package binaries. Each command is executed either from the local `node_modules/.bin` directory, or from a central cache, installing any packages needed in order for `<command>` to run.
+
+```json
+{
+	"name": "awesome-package",
+	"dependencies": {
+		"cat-names": "^1.0.0"
+	}
+}
+```
+
+If the binary is already installed, it will be executed from `node_modules/.bin`.
+
+```
+$ npx cat-names
+Max
+```
+
+But if the binary is missing, it will be installed first.
+
+```
+$ npx dog-names
+npx: installed 46 in 3.136s
+Bentley
+```
+
+
+### Run commands with different Node.js versions
+
+With `npx` (Comes bundled with npm v5.2.0 or newer) and the [`node-bin`](https://www.npmjs.com/package/node-bin) package, you can easily try out code in different Node.js versions without having to use a version manager like [`nvm`](http://nvm.sh), [`nave`](https://github.com/isaacs/nave), or [`n`](https://github.com/tj/n).
+
+```
+$ npx --package=node-bin@6.11.0 -- node --version
+v6.11.0
+```
+
 ### Link local packages
 
 Sometimes it can be useful to have a local version of a package as a dependency. You can use `npm link` to link one local package into another. Run `npm link` in the package you want to use. This creates a global reference. Then go into your original package and run `npm link <package-name>` to link in the other package.
