@@ -245,10 +245,10 @@ Bentley
 
 ### Run commands with different Node.js versions
 
-There’s this cool package called `node-bin` on the `npm` registry. This means that you can very easily try out node commands using different node versions, without having to use a version manager like [`nvm`](http://nvm.sh/), [`nave`](https://npm.im/nave), or [`n`](https://npm.im/n). All you need is a stock `npm@5.2.0` installation.
+With `npx` (Comes bundled with npm v5.2.0 or newer) and the [`node-bin`](https://www.npmjs.com/package/node-bin) package, you can easily try out code in different Node.js versions without having to use a version manager like [`nvm`](http://nvm.sh), [`nave`](https://github.com/isaacs/nave), or [`n`](https://github.com/tj/n).
 
 ```
-$ npx -p node-bin@6.11.0 -- node -v
+$ npx --package=node-bin@6.11.0 -- node --version
 v6.11.0
 ```
 
