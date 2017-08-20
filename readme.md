@@ -214,9 +214,9 @@ awesome-package
 ```
 
 
-### Run script with npx
+### Run script with `npx`
 
-Since version 5.2.0 `npm` [comes bundled](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b) with `npx` - a tool to execute package binaries. Each command is executed either from a local `node_modules/.bin`, or from a central cache, installing any packages needed in order for `<command>` to run.
+`npm` [comes bundled](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b) with `npx` (Since v5.2.0) — a tool to execute package binaries. Each command is executed either from the local `node_modules/.bin` directory, or from a central cache, installing any packages needed in order for `<command>` to run.
 
 ```json
 {
@@ -227,14 +227,14 @@ Since version 5.2.0 `npm` [comes bundled](https://medium.com/@maybekatz/introduc
 }
 ```
 
-For the already installed package binary will be executed from `node_modules/.bin`.
+If the binary is already installed, it will be executed from `node_modules/.bin`.
 
 ```
 $ npx cat-names
 Max
 ```
 
-But if binary is missing it would be installed first.
+But if the binary is missing, it will be installed first.
 
 ```
 $ npx dog-names
