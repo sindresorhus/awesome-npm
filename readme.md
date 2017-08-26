@@ -281,10 +281,10 @@ $ npm install 'sindresorhus/chalk#51b8f32'
 
 Specify either a commit SHA, branch, tag, or nothing.
 
-With npm v5.0.0 or newer, you can install git dependencies with semver.
+You can also install Git dependencies with semver: *(Requires npm v5 or newer)*
 
 ```
-$ npm install sindresorhus/chalk#semver:^2.0.0
+$ npm install 'sindresorhus/chalk#semver:^2.0.0'
 ```
 
 ### Install a specific version of a package
