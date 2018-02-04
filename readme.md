@@ -123,7 +123,7 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 - [redrun](https://github.com/coderaiser/redrun) - Expand scripts from package.json to improve execution speed.
 - [package-size](https://github.com/egoist/package-size) - Get the bundle size of an npm package.
 - [synp](https://github.com/imsnif/synp) - Convert yarn.lock to package-lock.json and vice versa.
-- [cli-error-notifier](https://github.com/micromata/cli-error-notifier) - Simple command wrapper which sends native desktop notifications if npm scripts fail.
+- [cli-error-notifier](https://github.com/micromata/cli-error-notifier) - Sends native desktop notifications when npm scripts fail.
 
 
 ## Clients
