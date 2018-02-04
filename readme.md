@@ -124,6 +124,7 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 - [package-size](https://github.com/egoist/package-size) - Get the bundle size of an npm package.
 - [synp](https://github.com/imsnif/synp) - Convert yarn.lock to package-lock.json and vice versa.
 - [npm-run-all](https://github.com/mysticatea/npm-run-all) - CLI tool to run multiple npm-scripts in parallel or serial.
+- [onchange](https://github.com/Qard/onchange) - Watch files and folders and run a command when something changed.
 
 
 ## Clients
