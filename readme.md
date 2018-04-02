@@ -218,6 +218,40 @@ $ npm run name
 awesome-package
 ```
 
+#### Passing options to commands
+
+You can pass options to the command you are using in your npm script by adding `-- --flag` like in the example below. The `--` [marks the end of options parsing](https://unix.stackexchange.com/questions/11376/what-does-double-dash-mean-also-known-as-bare-double-dash), so `npm run` will just ignore it and pass it to the command.
+
+```json
+{
+	"name": "awesome-package",
+	"scripts": {
+		"xo": "xo",
+		"xo:fix": "npm run xo -- --fix",
+	}
+}
+```
+
+*Adding the `-- --fix ` option is like executing `xo --fix`*.
+
+#### Silent option
+
+`npm run` has a `--silent` option which is especially useful when combining npm scripts.
+
+Imagine you have a setup for linting your JavaScript files like the following:
+
+```json
+{
+	"name": "awesome-package",
+	"scripts": {
+		"xo": "xo",
+		"xo:fix": "npm run xo --silent -- --fix",
+	}
+}
+```
+
+*Using the `--silent` option reduces the output in the terminal. See [this comparison](https://twitter.com/mkuehnel/status/957965749473210369).*
+
 
 ### Run script with `npx`
 
