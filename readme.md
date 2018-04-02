@@ -233,7 +233,7 @@ You can pass options to the command you are using in your npm script by adding `
 
 #### Silent option
 
-`npm run` has a `--silent` option which is especially useful when combining npm scripts in npm scripts.
+`npm run` has a `--silent` option which is especially useful when combining npm scripts.
 
 Imagine you have a setup for linting your JavaScript files like the following:
 
@@ -247,7 +247,7 @@ Imagine you have a setup for linting your JavaScript files like the following:
 }
 ```
 
-*Using the --silent option reduces the output in the Terminal. See this [comparison](https://twitter.com/mkuehnel/status/957965749473210369).*
+*Using the `--silent` option reduces the output in the terminal. See [this comparison](https://twitter.com/mkuehnel/status/957965749473210369).*
 
 
 ### Run script with `npx`
