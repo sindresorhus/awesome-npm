@@ -215,9 +215,9 @@ $ npm run name
 awesome-package
 ```
 
-#### Passing options to used commands
+#### Passing options to commands
 
-You can pass options to the command you are using in your npm script by adding `-- --flag` like in the example below.
+You can pass options to the command you are using in your npm script by adding `-- --flag` like in the example below. The `--` [marks the end of options parsing](https://unix.stackexchange.com/questions/11376/what-does-double-dash-mean-also-known-as-bare-double-dash), so `npm run` will just ignore it and pass it to the command.
 
 ```json
 {
