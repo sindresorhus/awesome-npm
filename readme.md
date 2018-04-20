@@ -1,4 +1,4 @@
-# awesome npm [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [<img src="https://github.com/npm/logos/blob/7fb0bc425e0dac1bab065217c4ed595594448db4/npm-transparent.png" width="200" align="right" alt="npm">](https://www.npmjs.com)
+# awesome npm [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [<img src="https://github.com/npm/logos/blob/7fb0bc425e0dac1bab065217c4ed595594448db4/npm-transparent.png" width="200" align="right" alt="npm">](https://www.npmjs.com)
 
 > Awesome [npm](https://www.npmjs.com) resources and tips
 
@@ -218,6 +218,40 @@ $ npm run name
 awesome-package
 ```
 
+#### Passing options to commands
+
+You can pass options to the command you are using in your npm script by adding `-- --flag` like in the example below. The `--` [marks the end of options parsing](https://unix.stackexchange.com/questions/11376/what-does-double-dash-mean-also-known-as-bare-double-dash), so `npm run` will just ignore it and pass it to the command.
+
+```json
+{
+	"name": "awesome-package",
+	"scripts": {
+		"xo": "xo",
+		"xo:fix": "npm run xo -- --fix",
+	}
+}
+```
+
+*Adding the `-- --fix ` option is like executing `xo --fix`*.
+
+#### Silent option
+
+`npm run` has a `--silent` option which is especially useful when combining npm scripts.
+
+Imagine you have a setup for linting your JavaScript files like the following:
+
+```json
+{
+	"name": "awesome-package",
+	"scripts": {
+		"xo": "xo",
+		"xo:fix": "npm run xo --silent -- --fix",
+	}
+}
+```
+
+*Using the `--silent` option reduces the output in the terminal. See [this comparison](https://twitter.com/mkuehnel/status/957965749473210369).*
+
 ### Lifecycle scripts
 
 npm comes with predefined [lifecyle scripts](https://docs.npmjs.com/misc/scripts) which are excuted under specific conditions in case they are defined in your package.json.
@@ -240,7 +274,7 @@ _Note: **prepublishOnly** is available since npm v4.0.0. See [npm docs](https://
 
 #### »npm start« and »npm test«
 
-`npm start` and »npm test« are also lifecycle scripts but aren’t executed automatically. 
+`npm start` and `npm test` are also lifecycle scripts but aren’t executed automatically.
 
 ```json
 {
