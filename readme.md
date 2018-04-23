@@ -183,7 +183,7 @@ $ npm install --save-dev ava
 
 ### Run scripts
 
-You can easily [run scripts](https://docs.npmjs.com/cli/run-script) using npm by adding them to the `"scripts"` field in package.json and run them with `npm run <script-name>`. Run `npm run` to see available scripts. Binaries of locally install packages are made available in the [PATH](https://en.wikipedia.org/wiki/PATH_(variable)), so you can run them by name. `npm run foo` will also run `prefoo` and `postfoo` if defined.
+You can easily [run scripts](https://docs.npmjs.com/cli/run-script) using npm by adding them to the `"scripts"` field in package.json and run them with `npm run <script-name>`. Run `npm run` to see available scripts. Binaries of locally install packages are made available in the [PATH](https://en.wikipedia.org/wiki/PATH_(variable)), so you can run them by name.
 
 ```json
 {
@@ -252,6 +252,75 @@ Imagine you have a setup for linting your JavaScript files like the following:
 
 *Using the `--silent` option reduces the output in the terminal. See [this comparison](https://twitter.com/mkuehnel/status/957965749473210369).*
 
+### Lifecycle scripts
+
+npm comes with predefined [lifecyle scripts](https://docs.npmjs.com/misc/scripts) which are excuted under specific conditions if they are defined in your package.json.
+
+```json
+{
+	"name": "awesome-package",
+	"scripts": {
+		"prepublishOnly": "nsp check"
+	},
+	"devDependencies": {
+		"nsp": "^3.0.0"
+	}
+}
+```
+
+This will be executed automatically before your npm package is published to the registry via `npm publish` to check for known vulnerabilties in your dependencies.
+
+*Note: **prepublishOnly** is available since npm v4.0.0. See [npm docs](https://docs.npmjs.com/misc/scripts#deprecation-note).*
+
+#### `npm start` and `npm test`
+
+`npm start` and `npm test` are also lifecycle scripts but are not executed automatically.
+
+```json
+{
+	"name": "awesome-package",
+	"scripts": {
+		"start": "node server.js",
+		"test": "ava"
+	},
+	"devDependencies": {
+		"ava": "^1.0.0"
+	}
+}
+```
+
+Therefore they can be executed simply with:
+
+```console
+$ npm test
+$ npm start
+```
+
+#### `pre` and `post` scripts
+
+These are special lifecycle scripts which can be used to run scripts automatically in sequence.
+
+```json
+{
+	"name": "awesome-package",
+	"scripts": {
+		"pretest": "eslint .",
+		"test": "ava"
+	},
+	"devDependencies": {
+		"eslint": "^4.19.0",
+		"ava": "^1.0.0"
+	}
+}
+```
+
+```console
+$ npm test
+```
+
+This will lint your files before running your tests. The tests will not run if linting fails. Or more generally spoken: the following script won’t be executed if one of the scripts running in sequence exits with an exit code other than 0.
+
+*Note: `pre` and `post` scripts can also be used for your custom npm scripts. So `npm run foo` will also run `prefoo` and `postfoo` if defined.*
 
 ### Run script with `npx`
 
