@@ -469,7 +469,7 @@ Great for prototyping, but download the file or use Browserify yourself for prod
 
 ## Support
 
-- [Issue tracker](https://github.com/npm/npm/issues)
+- [npm.community](https://npm.community/c/support)
 - [Twitter](https://twitter.com/npm_support)
 - [Contact form](https://www.npmjs.com/support)
 
