@@ -131,7 +131,7 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 ## Clients
 
 - [yarn](https://github.com/yarnpkg/yarn) - Fast, reliable, and secure dependency management.
-- [npm](https://github.com/npm/npm) - The official client.
+- [npm](https://github.com/npm/cli) - The official client.
 - [pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager.
 
 
