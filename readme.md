@@ -95,6 +95,7 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 - [nrm](https://github.com/Pana/nrm) - Registry manager.
 - [npm-register](https://github.com/dickeyxxx/npm-register) - Easy to set up and maintain npm registry and proxy.
 - [verdaccio](https://github.com/verdaccio/verdaccio) - Lightweight private npm proxy registry.
+- [cloudsmith](https://cloudsmith.io/f/open_source/) - A fully managed package management SaaS with support for npm registries (and many others).
 
 ### Other
 
