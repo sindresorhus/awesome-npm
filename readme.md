@@ -68,7 +68,7 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 ### CLI
 
 - [zsh-better-npm-completion](https://github.com/lukechilds/zsh-better-npm-completion) - Better ZSH completion for npm.
-
+- [npm-fzf](https://github.com/hankchanocd/npm-fzf) - Fuzzy search npm modules with [`fzf`](https://github.com/junegunn/fzf).
 
 ## Packages
 
@@ -95,7 +95,6 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 - [nrm](https://github.com/Pana/nrm) - Registry manager.
 - [npm-register](https://github.com/dickeyxxx/npm-register) - Easy to set up and maintain npm registry and proxy.
 - [verdaccio](https://github.com/verdaccio/verdaccio) - Lightweight private npm proxy registry.
-- [npmlist](https://github.com/hankchanocd/npmlist) - Fuzzy list anything listable from npm package
 - [cloudsmith](https://cloudsmith.io/f/open_source/) - A fully managed package management SaaS with support for npm registries (and many others).
 
 ### Other
