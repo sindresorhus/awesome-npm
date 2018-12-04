@@ -53,8 +53,8 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 - [npm-top](https://gist.github.com/bcoe/dcc961b869bbf6685002) - npm users by downloads.
 - [npm semver calculator](http://semver.npmjs.com) - Visually explore what versions of a package a semver range matches.
 - [npm-stats](http://www.npm-stats.com) - Displays metrics about packages.
-- [greenkeeper.io](http://greenkeeper.io) - Automates dependency updates through pull requests.
-- [ghub.io](http://ghub.io) - Redirects to the GitHub repo of an npm package.
+- [greenkeeper.io](https://greenkeeper.io) - Automates dependency updates through pull requests.
+- [ghub.io](https://ghub.io) - Redirects to the GitHub repo of an npm package.
 - [npm addict](https://npmaddict.com) - Your daily injection of npm packages.
 - [npm discover](http://www.npmdiscover.com) - Discover what packages are commonly used together.
 - [snyk](https://snyk.io) - Find, fix and monitor for known vulnerabilities in npm dependencies.
@@ -451,10 +451,10 @@ Great for prototyping, but download the file or use Browserify yourself for prod
 ## Community
 
 - [`#npm` on Freenode](http://webchat.freenode.net/?channels=npm)
-- [Stack Overflow](http://stackoverflow.com/questions/tagged/npm)
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/npm)
 - [Reddit](https://www.reddit.com/r/npm)
 - [Twitter](https://twitter.com/npmjs)
-- [Blog](http://blog.npmjs.org)
+- [Blog](https://blog.npmjs.org)
 
 
 ## Documentation
@@ -479,4 +479,4 @@ Great for prototyping, but download the file or use Browserify yourself for prod
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Sindre Sorhus](http://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.
