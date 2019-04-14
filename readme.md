@@ -134,6 +134,7 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 - [yarn](https://github.com/yarnpkg/yarn) - Fast, reliable, and secure dependency management.
 - [npm](https://github.com/npm/cli) - The official client.
 - [pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager.
+- [gpm](https://github.com/IonicaBizau/gpm) - npm + git = gpm - Install NPM packages and dependencies from git repositories.
 
 
 ## Tips
