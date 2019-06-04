@@ -98,7 +98,6 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 
 ### Other
 
-- [luna](https://github.com/rvpanoz/luna) - Manage npm dependencies through a modern UI.
 - [npm-home](https://github.com/sindresorhus/npm-home) - Open the npm page of a package.
 - [gh-home](https://github.com/sindresorhus/gh-home) - Open the GitHub page of a package.
 - [david](https://github.com/alanshaw/david) - Check if your package dependencies are out of date.
@@ -127,7 +126,7 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 - [npm-run-all](https://github.com/mysticatea/npm-run-all) - CLI tool to run multiple npm-scripts in parallel or serial.
 - [onchange](https://github.com/Qard/onchange) - Watch files and folders and run a command when something changed.
 - [cli-error-notifier](https://github.com/micromata/cli-error-notifier) - Sends native desktop notifications when npm scripts fail.
-
+- [luna](https://github.com/rvpanoz/luna) - Manage npm dependencies through a modern UI.
 
 ## Clients
 
