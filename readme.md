@@ -128,6 +128,7 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 - [onchange](https://github.com/Qard/onchange) - Watch files and folders and run a command when something changed.
 - [cli-error-notifier](https://github.com/micromata/cli-error-notifier) - Sends native desktop notifications when npm scripts fail.
 - [luna](https://github.com/rvpanoz/luna) - App to manage npm dependencies.
+- [emma-cli](https://github.com/maticzav/emma-cli) - Interactive CLI package search utility.
 
 
 ## Clients
