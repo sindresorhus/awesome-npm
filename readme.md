@@ -129,6 +129,7 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 - [cli-error-notifier](https://github.com/micromata/cli-error-notifier) - Sends native desktop notifications when npm scripts fail.
 - [luna](https://github.com/rvpanoz/luna) - App to manage npm dependencies.
 - [emma-cli](https://github.com/maticzav/emma-cli) - Interactive CLI package search utility.
+- [lockfile-lint](https://github.com/lirantal/lockfile-lint) - lint lockfiles for improved security and trust policies to mitigate malicious package injection and insecure lockfile resources.
 
 
 ## Clients
