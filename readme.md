@@ -121,15 +121,17 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 - [ntl](https://github.com/ruyadorno/ntl) - Interactive CLI menu to list & run npm tasks.
 - [decheck](https://github.com/egoist/decheck) - Explore dependencies of npm packages in the command-line.
 - [shrinkpack](https://github.com/JamieMason/shrinkpack) - Lock down your dependencies and install offline.
-- [redrun](https://github.com/coderaiser/redrun) - Expand scripts from package.json to improve execution speed.
 - [package-size](https://github.com/egoist/package-size) - Get the bundle size of an npm package.
 - [synp](https://github.com/imsnif/synp) - Convert yarn.lock to package-lock.json and vice versa.
-- [npm-run-all](https://github.com/mysticatea/npm-run-all) - CLI tool to run multiple npm-scripts in parallel or serial.
 - [onchange](https://github.com/Qard/onchange) - Watch files and folders and run a command when something changed.
 - [cli-error-notifier](https://github.com/micromata/cli-error-notifier) - Sends native desktop notifications when npm scripts fail.
 - [luna](https://github.com/rvpanoz/luna) - App to manage npm dependencies.
 - [emma-cli](https://github.com/maticzav/emma-cli) - Interactive CLI package search utility.
 
+
+## Task runners
+
+https://github.com/RyanZim/awesome-npm-scripts#task-runners
 
 ## Clients
 
