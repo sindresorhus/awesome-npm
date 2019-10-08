@@ -67,7 +67,8 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 ### CLI
 
 - [zsh-better-npm-completion](https://github.com/lukechilds/zsh-better-npm-completion) - Better ZSH completion for npm.
-- [npkill](https://github.com/voidcosmos/npkill) - List and delete old and heavy node_modules with style.
+- [npkill](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node_modules folders.
+
 
 ## Packages
 
