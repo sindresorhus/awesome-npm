@@ -2,10 +2,7 @@
 
 > Awesome [npm](https://www.npmjs.com) resources and tips
 
-You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs).
-
 *Please read the [contribution guidelines](contributing.md) before contributing.*
-
 
 ## Contents
 
@@ -18,7 +15,7 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 - [Community](#community)
 - [Documentation](#documentation)
 - [Support](#support)
-
+- [Related](#related)
 
 ## Articles
 
@@ -34,7 +31,6 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 - [Optimizing the footprint of an npm package](https://medium.com/@goldglovecb/npm-needs-a-personal-trainer-537e0f8859c6)
 - [The Art of Node](https://github.com/maxogden/art-of-node#modules) - An introduction to Node.js and client-side development with npm.
 - [Why npm scripts?](https://css-tricks.com/why-npm-scripts/) - An introduction to npm scripts with common packages and scripts, as well as a boilerplate project.
-
 
 ## Tools
 
@@ -56,7 +52,6 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 - [greenkeeper.io](https://greenkeeper.io) - Automates dependency updates through pull requests.
 - [ghub.io](https://ghub.io) - Redirects to the GitHub repo of an npm package.
 - [npm addict](https://npmaddict.com) - Your daily injection of npm packages.
-- [npm discover](http://www.npmdiscover.com) - Discover what packages are commonly used together.
 
 ### Browser extensions
 
@@ -68,7 +63,6 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 
 - [zsh-better-npm-completion](https://github.com/lukechilds/zsh-better-npm-completion) - Better ZSH completion for npm.
 - [npkill](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node_modules folders.
-
 
 ## Packages
 
@@ -132,13 +126,11 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 - [emma-cli](https://github.com/maticzav/emma-cli) - Interactive CLI package search utility.
 - [lockfile-lint](https://github.com/lirantal/lockfile-lint) - Lint lockfiles for improved security and trust policies to mitigate malicious package injection and insecure lockfile resources.
 
-
 ## Clients
 
 - [yarn](https://github.com/yarnpkg/yarn) - Fast, reliable, and secure dependency management.
 - [npm](https://github.com/npm/cli) - The official client.
 - [pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager.
-
 
 ## Tips
 
@@ -176,7 +168,6 @@ alias ns='npm start'
 alias nf='npm cache clean && rm -rf node_modules && npm install'
 alias nlg='npm list --global --depth=0'
 ```
-
 
 ### Don't add to package.json when installing
 
@@ -355,7 +346,6 @@ npx: installed 46 in 3.136s
 Bentley
 ```
 
-
 ### Run commands with different Node.js versions
 
 With `npx` (Comes bundled with npm v5.2.0 or newer) and the [`node-bin`](https://www.npmjs.com/package/node-bin) package, you can easily try out code in different Node.js versions without having to use a version manager like [`nvm`](http://nvm.sh), [`nave`](https://github.com/isaacs/nave), or [`n`](https://github.com/tj/n).
@@ -442,7 +432,6 @@ Examples:
 
 Great for prototyping, but download the file or use Browserify yourself for production.
 
-
 ## FAQ
 
 - [Check in node_modules vs. shrinkwrap](http://stackoverflow.com/questions/11459733/check-in-node-modules-vs-shrinkwrap)
@@ -451,7 +440,6 @@ Great for prototyping, but download the file or use Browserify yourself for prod
 - [Find the version of an installed npm package](http://stackoverflow.com/questions/10972176/find-the-version-of-an-installed-npm-package)
 - [What's the difference between dependencies, devDependencies, and peerDependencies in package.json?](http://stackoverflow.com/questions/18875674/whats-the-difference-between-dependencies-devdependencies-and-peerdependencies)
 
-
 ## Community
 
 - [`#npm` on Freenode](http://webchat.freenode.net/?channels=npm)
@@ -459,7 +447,6 @@ Great for prototyping, but download the file or use Browserify yourself for prod
 - [Reddit](https://www.reddit.com/r/npm)
 - [Twitter](https://twitter.com/npmjs)
 - [Blog](https://blog.npmjs.org)
-
 
 ## Documentation
 
@@ -471,16 +458,12 @@ Great for prototyping, but download the file or use Browserify yourself for prod
 - [npm run script](https://docs.npmjs.com/cli/run-script)
 - [Stats API](https://github.com/npm/download-counts)
 
-
 ## Support
 
 - [npm.community](https://npm.community/c/support)
 - [Twitter](https://twitter.com/npm_support)
 - [Contact form](https://www.npmjs.com/support)
 
+## Related
 
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.
+- [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
