@@ -6,10 +6,12 @@ Please note that this project is released with a [Contributor Code of Conduct](c
 
 Ensure your pull request adheres to the following guidelines:
 
+- **The submitted project should be more than 30 days old and the repo should have at least 30 stars.**
 - Search previous suggestions before making a new one, as yours may be a duplicate.
-- If you just created something, wait at least a couple of weeks before submitting.
-- You should of course have read or used the thing you're submitting.
+- If you submit a project that is similar to an existing project in the list, argue how it's better.
+- You should of course have read/used the thing you're submitting.
 - Make an individual pull request for each suggestion.
+- Suggested packages should be tested and documented.
 - Use the following format: `[name](link) - Description.`
 - Keep descriptions short and simple, but descriptive.
 - Start the description with a capital and end with a full stop/period.
