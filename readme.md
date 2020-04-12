@@ -116,6 +116,7 @@
 - [john](https://github.com/davej/john) - Make npm3's flat dependencies easier to find and sort.
 - [ntl](https://github.com/ruyadorno/ntl) - Interactive CLI menu to list & run npm tasks.
 - [decheck](https://github.com/egoist/decheck) - Explore dependencies of npm packages in the command-line.
+- [handpick](https://github.com/redaxmedia/handpick) - Handpick conditional dependencies like a boss.
 - [shrinkpack](https://github.com/JamieMason/shrinkpack) - Lock down your dependencies and install offline.
 - [redrun](https://github.com/coderaiser/redrun) - Expand scripts from package.json to improve execution speed.
 - [package-size](https://github.com/egoist/package-size) - Get the bundle size of an npm package.
