@@ -51,7 +51,6 @@
 - [npm-top](https://gist.github.com/bcoe/dcc961b869bbf6685002) - npm users by downloads.
 - [npm semver calculator](http://semver.npmjs.com) - Visually explore what versions of a package a semver range matches.
 - [npm-stats](http://www.npm-stats.com) - Displays metrics about packages.
-- [greenkeeper.io](https://greenkeeper.io) - Automates dependency updates through pull requests.
 - [ghub.io](https://ghub.io) - Redirects to the GitHub repo of an npm package.
 - [npm addict](https://npmaddict.com) - Your daily injection of npm packages.
 
