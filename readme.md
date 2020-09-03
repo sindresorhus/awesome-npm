@@ -152,6 +152,7 @@ $ npm install --global npm
 - `npm it` → `npm install && npm test`
 - `npm r` → `npm uninstall`
 - `npm un` → `npm uninstall`
+- `npm up` → `npm update`
 
 ### Shell aliases
 
