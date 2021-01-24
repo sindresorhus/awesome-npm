@@ -29,7 +29,7 @@
 - [Offline installation of npm packages](https://addyosmani.com/blog/using-npm-offline/)
 - [Task automation with npm run](https://web.archive.org/web/20180302164842/http://substack.net/task_automation_with_npm_run)
 - [How to use npm as a build tool](https://www.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/)
-- [Install npm packages globally without sudo on macOS and Linux](https://github.com/sindresorhus/guides/blob/master/npm-global-without-sudo.md)
+- [Install npm packages globally without sudo on macOS and Linux](https://github.com/sindresorhus/guides/blob/main/npm-global-without-sudo.md)
 - [Optimizing the footprint of an npm package](https://medium.com/@goldglovecb/npm-needs-a-personal-trainer-537e0f8859c6)
 - [The Art of Node](https://github.com/maxogden/art-of-node#modules) - An introduction to Node.js and client-side development with npm.
 - [Why npm scripts?](https://css-tricks.com/why-npm-scripts/) - An introduction to npm scripts with common packages and scripts, as well as a boilerplate project.
@@ -380,7 +380,7 @@ npm supports using a shorthand for installing a package directly from a GitHub r
 $ npm install sindresorhus/chalk
 ```
 
-Let's target a specific commit as master is a moving target:
+Let's target a specific commit as the main branch is a moving target:
 
 ```
 $ npm install 'sindresorhus/chalk#51b8f32'
