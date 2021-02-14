@@ -53,7 +53,7 @@
 - [npm-stats](http://www.npm-stats.com) - Displays metrics about packages.
 - [ghub.io](https://ghub.io) - Redirects to the GitHub repo of an npm package.
 - [npm addict](https://npmaddict.com) - Your daily injection of npm packages.
-- [moiva](https://moiva.io/) - Compares and discover packages.
+- [moiva](https://moiva.io/) - Compares and discovers packages.
 
 ### Browser extensions
 
