@@ -50,7 +50,6 @@
 - [npm-compare](https://npmcompare.com) - Easily search and compare packages.
 - [npm-top](https://gist.github.com/bcoe/dcc961b869bbf6685002) - npm users by downloads.
 - [npm semver calculator](http://semver.npmjs.com) - Visually explore what versions of a package a semver range matches.
-- [npm-stats](http://www.npm-stats.com) - Displays metrics about packages.
 - [ghub.io](https://ghub.io) - Redirects to the GitHub repo of an npm package.
 - [npm addict](https://npmaddict.com) - Your daily injection of npm packages.
 - [moiva](https://moiva.io) - Discover and compare packages.
