@@ -40,7 +40,7 @@
 
 - [npms](https://npms.io) - Superb package search with deep analysis of package quality using a [myriad of metrics](https://npms.io/about).
 	- [npm-introspect](http://npm-introspect.z3d.tech) - A npms-based utility for visually exploring the quality of package dependencies.
-- [Openbase](https://openbase.com/) - Compare open-source packages with [powerful metrics and user reviews](https://openbase.com/about/openbase)
+- [Openbase](https://openbase.com/) - Compare open-source packages with [powerful metrics and user reviews](https://openbase.com/about/openbase).
 - [npmsearch](http://npmsearch.com) - Fast package search with ranking based on metrics like stars, dependents, release frequency, etc.
 - [node-modules](http://node-modules.com) - Personalized package search based on your GitHub social graph.
 - [NodeICO](https://nodei.co/) - Package badges.
