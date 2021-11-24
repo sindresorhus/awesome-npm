@@ -53,7 +53,7 @@
 - [ghub.io](https://ghub.io) - Redirects to the GitHub repo of an npm package.
 - [npm addict](https://npmaddict.com) - Your daily injection of npm packages.
 - [moiva](https://moiva.io) - Discover and compare packages.
-- [Openbase](https://openbase.com/) - Compare open-source packages with [powerful metrics and user reviews](https://openbase.com/about/openbase).
+- [Openbase](https://openbase.com) - Compare open-source packages with powerful metrics and user reviews.
 
 ### Browser extensions
 
