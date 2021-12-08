@@ -1,5 +1,7 @@
 # Awesome npm [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [<img src="https://github.com/npm/logos/blob/7fb0bc425e0dac1bab065217c4ed595594448db4/npm-transparent.png" width="200" align="right" alt="npm">](https://www.npmjs.com)
 
+[English](./readme.md) | 简体中文
+
 > 优秀的 [npm](https://www.npmjs.com) 资源和技巧
 
 [npm](https://en.wikipedia.org/wiki/Npm_(software)) 是一个 JavaScript 编程语言的包管理器，捆绑在 [Node.js](https://en.wikipedia.org/wiki/Node.js) 运行时中。

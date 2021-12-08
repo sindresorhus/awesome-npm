@@ -1,5 +1,7 @@
 # 贡献指南
 
+[English](./contributing.md) | 简体中文
+
 请注意，本项目发布时有一个[贡献者行为准则](code-of-conduct.md)。通过参与本项目，你同意遵守其条款。
 
 ---
