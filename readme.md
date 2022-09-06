@@ -54,6 +54,7 @@
 - [moiva](https://moiva.io) - Discover and compare packages.
 - [Openbase](https://openbase.com) - Compare open-source packages with powerful metrics and user reviews.
 - [Codelib.club](https://codelib.club) - Search and discover open-source apps by dependencies.
+- [kandi](http://kandi.openweaver.com/) - Find precise code snippets and libraries from over millions of knowledge items and shortlist, verify with Xray & Filters.
 
 ### Browser extensions
 
