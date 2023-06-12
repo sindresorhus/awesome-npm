@@ -39,8 +39,6 @@
 ### Web
 
 - [npms](https://npms.io) - Superb package search with deep analysis of package quality using a [myriad of metrics](https://npms.io/about).
-	- [npm-introspect](http://npm-introspect.z3d.tech) - A npms-based utility for visually exploring the quality of package dependencies.
-- [node-modules](http://node-modules.com) - Personalized package search based on your GitHub social graph.
 - [NodeICO](https://nodei.co/) - Package badges.
 - [Libraries.io](https://libraries.io/npm) - Package discovery.
 - [npm-stat](http://npm-stat.com) - Statistics charts for packages.
@@ -50,10 +48,7 @@
 - [npm-top](https://gist.github.com/bcoe/dcc961b869bbf6685002) - npm users by downloads.
 - [npm semver calculator](http://semver.npmjs.com) - Visually explore what versions of a package a semver range matches.
 - [ghub.io](https://ghub.io) - Redirects to the GitHub repo of an npm package.
-- [npm addict](https://npmaddict.com) - Your daily injection of npm packages.
 - [moiva](https://moiva.io) - Discover and compare packages.
-- [Openbase](https://openbase.com) - Compare open-source packages with powerful metrics and user reviews.
-- [Codelib.club](https://codelib.club) - Search and discover open-source apps by dependencies.
 
 ### Browser extensions
 
