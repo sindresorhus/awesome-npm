@@ -89,7 +89,7 @@
 - [npm-register](https://github.com/dickeyxxx/npm-register) - Easy to set up and maintain npm registry and proxy.
 - [verdaccio](https://github.com/verdaccio/verdaccio) - Lightweight private npm proxy registry.
 - [cloudsmith](https://cloudsmith.io/l/npm-registry/) - A fully managed package management SaaS with support for public and private npm registries (and many others).
-- [gitHub packages](https://docs.github.com/packages) - Easy to set up, maintain and publish (privately or publicly) npm packages with the GitHub packages.
+- [gitHub packages](https://docs.github.com/packages) - Easy to set up, maintain and publish (privately or publicly) npm packages.
 
 ### Other
 
