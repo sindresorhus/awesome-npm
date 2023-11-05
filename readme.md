@@ -100,10 +100,10 @@
 - [npm-shrinkwrap](https://github.com/uber/npm-shrinkwrap) - A consistent shrinkwrap tool.
 - [npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade) - Upgrade npm on Windows.
 - [generator-nm](https://github.com/sindresorhus/generator-nm) - Scaffold out an npm package.
-- [pkg-up](https://github.com/sindresorhus/pkg-up) - Find the closest package.json file.
-- [read-pkg-up](https://github.com/sindresorhus/read-pkg-up) - Read the closest package.json file.
+- [package-up](https://github.com/sindresorhus/package-up) - Find the closest package.json file.
+- [read-package-up](https://github.com/sindresorhus/read-package-up) - Read the closest package.json file.
 - [normalize-package-data](https://github.com/npm/normalize-package-data) - Normalize package metadata.
-- [pkg-conf](https://github.com/sindresorhus/pkg-conf) - Get namespaced config from the closest package.json.
+- [package-config](https://github.com/sindresorhus/package-config) - Get namespaced config from the closest package.json.
 - [npm-run-path](https://github.com/sindresorhus/npm-run-path) - Run locally installed binaries in the terminal by name like with global ones.
 - [local-npm](https://github.com/nolanlawson/local-npm) - Use npm [offline](https://addyosmani.com/blog/using-npm-offline/).
 - [npe](https://github.com/zeke/npe) - CLI for inspecting and editing properties in package.json.
