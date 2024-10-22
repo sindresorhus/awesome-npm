@@ -44,7 +44,7 @@
 - [npm-stat](http://npm-stat.com) - Statistics charts for packages.
 - [npmgraph](http://npm.anvaka.com) - Visualization of dependencies.
 - [npm trends](http://www.npmtrends.com) - Compare package download counts over time.
-- [npm-compare](https://npmcompare.com) - Easily search and compare packages.
+- [npm-compare](https://npm-compare.com) - Easily search and compare packages.
 - [npm-top](https://gist.github.com/bcoe/dcc961b869bbf6685002) - npm users by downloads.
 - [npm semver calculator](http://semver.npmjs.com) - Visually explore what versions of a package a semver range matches.
 - [ghub.io](https://ghub.io) - Redirects to the GitHub repo of an npm package.
