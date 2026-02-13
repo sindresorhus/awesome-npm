@@ -123,6 +123,7 @@
 - [luna](https://github.com/rvpanoz/luna) - App to manage npm dependencies.
 - [emma-cli](https://github.com/maticzav/emma-cli) - Interactive CLI package search utility.
 - [lockfile-lint](https://github.com/lirantal/lockfile-lint) - Lint lockfiles for improved security and trust policies to mitigate malicious package injection and insecure lockfile resources.
+- [@taskade/mcp-server](https://github.com/taskade/mcp) - Taskade MCP server providing 62+ AI agent tools for project, task, and workflow management.
 
 ## Clients
 
