@@ -48,6 +48,7 @@
 - [npm semver calculator](http://semver.npmjs.com) - Visually explore what versions of a package a semver range matches.
 - [ghub.io](https://ghub.io) - Redirects to the GitHub repo of an npm package.
 - [moiva](https://moiva.io) - Discover and compare packages.
+- [ReleaseRun Package.json Health](https://releaserun.com/tools/package-json-health/) - Analyze package.json for outdated, deprecated, or abandoned npm packages.
 
 ### Browser extensions
 
